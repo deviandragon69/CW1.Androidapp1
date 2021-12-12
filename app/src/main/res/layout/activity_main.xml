@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="FarmBNB"
-        android:textSize="90dp"
+        android:textSize="90sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.551"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Guest"
-        android:textSize="40dp"
+        android:textSize="40sp"
         tools:layout_editor_absoluteX="118dp"
         tools:layout_editor_absoluteY="420dp" />
 
@@ -32,7 +32,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Login"
-        android:textSize="40dp"
+        android:textSize="40sp"
         tools:layout_editor_absoluteX="122dp"
         tools:layout_editor_absoluteY="516dp" />
 
@@ -41,7 +41,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Booking made Easy"
-        android:textSize="40dp"
+        android:textSize="40sp"
         tools:layout_editor_absoluteX="30dp"
         tools:layout_editor_absoluteY="285dp" />
 
